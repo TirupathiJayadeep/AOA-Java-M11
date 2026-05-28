@@ -25,8 +25,8 @@ If the result is 0, then n is a power of two; otherwise, it is not.
 ## Program:
 ```
 /*
-Developed by: Reddineni Adarsh Chowdary
-Register Number: 212223040166
+Developed by: Tirupathi Jayadeep
+Register Number: 212223240169
 */
 
 import java.util.Scanner;
